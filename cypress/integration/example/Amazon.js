@@ -6,7 +6,7 @@ describe ('My First Suite ', function(){
 it('My First Test case!' , ()=> {
 
   //  cy.visit('https://amazon.in');
-    cy.visit('https://react-shopping-cart-67954.firebaseapp.com/')
+    cy.visit('https://react-shopping-cart-67954.firebaseapp.com/');
     cy.wait(8000)
     //cy.get('img[alt="ACs"]').click();
 
